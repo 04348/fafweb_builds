@@ -1,46 +1,46 @@
-Archétype Hérault - DPS/Support
+ArchÃ©type HÃ©rault - DPS/Support
 
-Cet archétype très polyvalent est valable aussi bien en raid qu'en fractales haut niveaux.
-Il permet d'obtenir un bon DPS, beacoup de contrôle et une excellente survivabilité.
-Néanmoins, si votre groupe n'a pas besoin de plus d'avantages ou de contrôle, une classe de DPS pur sera plus approprié
+Cet archÃ©type trÃ©s polyvalent est valable aussi bien en raid qu'en fractales haut niveaux.
+Il permet d'obtenir un bon DPS, beacoup de contrÃ©le et une excellente survivabilitÃ©.
+NÃ©anmoins, si votre groupe n'a pas besoin de plus d'avantages ou de contrÃ©le, une classe de DPS pur sera plus appropriÃ©
 
 <h1>Equipement</h1>
-Toutes l'équipement en statistiques berserker
-Armes : Epée/Hache () Baton
-Runes : Runes de l'érudit
-Cachets : Cachet d'éclair + Cachet de fermeté sur les deux sets
+Toutes l'Ã©quipement en statistiques berserker
+Armes : EpÃ©e/Hache () Baton
+Runes : Runes de l'Ã©rudit
+Cachets : Cachet d'Ã©clair + Cachet de fermetÃ© sur les deux sets
 
-<h1>Compétences</h1>
-Dans la majorité des cas, utilisez les légendes Brill et Jalis.
-Si il faut que vous ayez accès à du debuff, utilisez Mallyx au lieu de Jalis.
-Si votre groupe ne possède aucun mesmer, vous pouvez utiliser Shiro au lieu de Jalis.
+<h1>CompÃ©tences</h1>
+Dans la majoritÃ© des cas, utilisez les lÃ©gendes Brill et Jalis.
+Si il faut que vous ayez accÃ©s Ã© du debuff, utilisez Mallyx au lieu de Jalis.
+Si votre groupe ne possÃ©de aucun mesmer, vous pouvez utiliser Shiro au lieu de Jalis.
 
 <h1>Aptitudes</h1>
 
 <h1>Utilisation en combat</h1>
 
-Le cycle de dps repose sur le changement de légende, disponible toutes les 10 secondes.
-En effet, ce changement redonne 50 point d'énergie, ce qui permet de consommer 5pts/sec en permanance.
-On garde la facette de la nature active durant tout le combat. Ensuite, cycle est donc séparé en deux phase:
+Le cycle de dps repose sur le changement de lÃ©gende, disponible toutes les 10 secondes.
+En effet, ce changement redonne 50 point d'Ã©nergie, ce qui permet de consommer 5pts/sec en permanance.
+On garde la facette de la nature active durant tout le combat. Ensuite, cycle est donc sÃ©parÃ© en deux phase:
 
 Brill:
 	-On active la facette de vitesse, fureur et protection
-	-On décharge la facette de vitesse sur la cible
-	-On continu l'auto-attaque en utilisant 'off-cd' la compétence 2 de l'épée et la facette des élements
-Lorsque on redescent bas en énergie (vers 5pts), on change pour l'autre légende de façon à ne pas tomber à court d'énergie, ce qui annulerai la facette de nature
-Ensuite, selon 2nd légende:
+	-On dÃ©charge la facette de vitesse sur la cible
+	-On continu l'auto-attaque en utilisant 'off-cd' la compÃ©tence 2 de l'Ã©pÃ©e et la facette des Ã©lements
+Lorsque on redescent bas en Ã©nergie (vers 5pts), on change pour l'autre lÃ©gende de faÃ©on Ã© ne pas tomber Ã© court d'Ã©nergie, ce qui annulerai la facette de nature
+Ensuite, selon 2nd lÃ©gende:
 Jalis :
 	-On active Marteaux vengeur
 Mallyx:
-	-On active Etreindre les ténèbres
+	-On active Etreindre les tÃ©nÃ©bres
 Shiro:
-	-On active Probabilité improbable
+	-On active ProbabilitÃ© improbable
 
-Puis de la même manière qu'avec Brill, on utilise autant que possible le 1 et le 2 de l'épée, puis on change de légende vers 5pts.
-Les compétences 3, 4 et 5 n'ont aucun intéret dans l'optique d'optimiser vos dégats.
-Lorsque vous utilisez les Marteaux Vengeurs de Jalis, faites très attention : Ce sont des entités à part entières, qui peuvent tomber ou se casser (sur les champignons du Gardien de la Vallée par exemple...)
+Puis de la mÃ©me maniÃ©re qu'avec Brill, on utilise autant que possible le 1 et le 2 de l'Ã©pÃ©e, puis on change de lÃ©gende vers 5pts.
+Les compÃ©tences 3, 4 et 5 n'ont aucun intÃ©ret dans l'optique d'optimiser vos dÃ©gats.
+Lorsque vous utilisez les Marteaux Vengeurs de Jalis, faites trÃ©s attention : Ce sont des entitÃ©s Ã© part entiÃ©res, qui peuvent tomber ou se casser (sur les champignons du Gardien de la VallÃ©e par exemple...)
 
-Lorsque vous devez controler un boss, utilisez le 5 à l'épée, changer d'arme pour le baton, executez le 5 de manière à toucher le plus de fois possible le boss (5 coup maximum), puis:
-Si le contrôle n'est pas critique, finissez avec la chaine d'attaque du 2 au bâton, sinon déchargez la facette (A éviter si possible).
+Lorsque vous devez controler un boss, utilisez le 5 Ã© l'Ã©pÃ©e, changer d'arme pour le baton, executez le 5 de maniÃ©re Ã© toucher le plus de fois possible le boss (5 coup maximum), puis:
+Si le contrÃ©le n'est pas critique, finissez avec la chaine d'attaque du 2 au bÃ©ton, sinon dÃ©chargez la facette (A Ã©viter si possible).
 
 
